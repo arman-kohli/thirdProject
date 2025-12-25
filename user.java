@@ -1,22 +1,22 @@
 
 class User{
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
   // gira ticket no 102
   public static void findSubtract(int a,int b){
     int subtract=a-b;
     System.out.println(subtract);
-=======
+
   public static void FindSum(int a,int b){
     int sum=a+b;
     System.out.println(sum);
 >>>>>>> Stashed changes
-=======
+
   public static void FindSum(int a,int b){
     int sum=a+b;
     System.out.println(sum);
->>>>>>> Stashed changes
+
   }
   public static void main(String args[]){
     findSubtract(20, 10);
